@@ -1,0 +1,54 @@
+a:2:{i:0;a:2:{i:0;s:2292:"<div id="w3" class="list-view"><div class="col-sm-6 col-md-4 col-lg-3 vtop" style="margin-bottom:30px" data-key="1078"><div>
+	<div class="image">
+		<a href=/ducati/models/hypermotard/hypermotard_939 class="ducati">
+			<img src=http://www.ssdev.co.uk/backend/uploads/images/models/hypermotard-939-2018/small/Hypermotard_939_2016_Studio_R_E01_light_off_1920x1080_mediagallery_output_image__1920x1080_.jpg alt='Hypermotard 939 2018' class='image-responsive img-fullwidth' />
+		</a>
+		<span class="demo demo-ducati">Demo Available</span>	</div>
+	<div>
+		<a href=/ducati/models/hypermotard/hypermotard_939>
+		Hypermotard 939   2018		<br/>£10,795.00		</a>
+			</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "image": "http://www.ssdev.co.uk/backend/uploads/images/models/hypermotard-939-2018/Hypermotard_939_2016_Studio_R_E01_light_off_1920x1080_mediagallery_output_image__1920x1080_.jpg",
+  "name": "Hypermotard 939 2018",
+  "description": "Hypermotard 939  ",
+  "offers": {
+    "@type": "Offer",
+    "availability": "http://schema.org/InStock",
+    "price": "10795.00",
+    "priceCurrency": "GBP"
+  }
+}
+</script></div>
+<div class="col-sm-6 col-md-4 col-lg-3 vtop" style="margin-bottom:30px" data-key="1079"><div>
+	<div class="image">
+		<a href=/ducati/models/hypermotard/hypermotard_939_sp class="ducati">
+			<img src=http://www.ssdev.co.uk/backend/uploads/images/models/hypermotard-939-sp-2018/small/Hypermotard_939_SP_2016_Studio_RW_G01_1920x1080_mediagallery_output_image__1920x1080_.jpg alt='Hypermotard 939 SP 2018' class='image-responsive img-fullwidth' />
+		</a>
+			</div>
+	<div>
+		<a href=/ducati/models/hypermotard/hypermotard_939_sp>
+		Hypermotard 939 SP   2018		<br/>£13,895.00		</a>
+			</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "image": "http://www.ssdev.co.uk/backend/uploads/images/models/hypermotard-939-sp-2018/Hypermotard_939_SP_2016_Studio_RW_G01_1920x1080_mediagallery_output_image__1920x1080_.jpg",
+  "name": "Hypermotard 939 SP 2018",
+  "description": "Hypermotard 939 SP  ",
+  "offers": {
+    "@type": "Offer",
+    "availability": "http://schema.org/InStock",
+    "price": "13895.00",
+    "priceCurrency": "GBP"
+  }
+}
+</script></div></div>";i:1;N;}i:1;N;}

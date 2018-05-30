@@ -1,0 +1,135 @@
+a:2:{i:0;a:2:{i:0;s:5028:"<div id="w2" class="list-view"><div class="col-sm-6 col-md-4 col-lg-3 vtop" style="margin-bottom:30px" data-key="1073"><div>
+	<div class="image">
+		<a href=/ducati/models/diavel/diavel class="ducati">
+			<img src=http://www.ssdev.co.uk/backend/uploads/images/models/diavel-2018/small/Ducati_Diavel_2015_3840x2160_003.jpg alt='Diavel 2018' class='image-responsive img-fullwidth' />
+		</a>
+			</div>
+	<div>
+		<a href=/ducati/models/diavel/diavel>
+		Diavel   2018		<br/>£15,995.00		</a>
+			</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "image": "http://www.ssdev.co.uk/backend/uploads/images/models/diavel-2018/Ducati_Diavel_2015_3840x2160_003.jpg",
+  "name": "Diavel 2018",
+  "description": "Diavel  ",
+  "offers": {
+    "@type": "Offer",
+    "availability": "http://schema.org/InStock",
+    "price": "15995.00",
+    "priceCurrency": "GBP"
+  }
+}
+</script></div>
+<div class="col-sm-6 col-md-4 col-lg-3 vtop" style="margin-bottom:30px" data-key="1074"><div>
+	<div class="image">
+		<a href=/ducati/models/diavel/diavel_carbon class="ducati">
+			<img src=http://www.ssdev.co.uk/backend/uploads/images/models/diavel-carbon-2018/small/Diavel_Carbon_2016_Amb_01_1920x1080_mediagallery_output_image__1920x1080_.jpg alt='Diavel Carbon 2018' class='image-responsive img-fullwidth' />
+		</a>
+		<span class="demo demo-ducati">Demo Available</span>	</div>
+	<div>
+		<a href=/ducati/models/diavel/diavel_carbon>
+		Diavel Carbon   2018		<br/>£19,250.00		</a>
+			</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "image": "http://www.ssdev.co.uk/backend/uploads/images/models/diavel-carbon-2018/Diavel_Carbon_2016_Amb_01_1920x1080_mediagallery_output_image__1920x1080_.jpg",
+  "name": "Diavel Carbon 2018",
+  "description": "Diavel Carbon  ",
+  "offers": {
+    "@type": "Offer",
+    "availability": "http://schema.org/InStock",
+    "price": "19250.00",
+    "priceCurrency": "GBP"
+  }
+}
+</script></div>
+<div class="col-sm-6 col-md-4 col-lg-3 vtop" style="margin-bottom:30px" data-key="1075"><div>
+	<div class="image">
+		<a href=/ducati/models/diavel/diavel_diesel class="ducati">
+			<img src=http://www.ssdev.co.uk/backend/uploads/images/models/diavel-diesel-2018/small/2017_Ducati_Diavel_Diesel_15.jpg alt='Diavel Diesel 2018' class='image-responsive img-fullwidth' />
+		</a>
+			</div>
+	<div>
+		<a href=/ducati/models/diavel/diavel_diesel>
+		Diavel Diesel  2018		<br/>£20,895.00		</a>
+			</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "image": "http://www.ssdev.co.uk/backend/uploads/images/models/diavel-diesel-2018/2017_Ducati_Diavel_Diesel_15.jpg",
+  "name": "Diavel Diesel 2018",
+  "description": "Diavel Diesel ",
+  "offers": {
+    "@type": "Offer",
+    "availability": "http://schema.org/InStock",
+    "price": "20895.00",
+    "priceCurrency": "GBP"
+  }
+}
+</script></div>
+<div class="col-sm-6 col-md-4 col-lg-3 vtop" style="margin-bottom:30px" data-key="1076"><div>
+	<div class="image">
+		<a href=/ducati/models/diavel/xdiavel class="ducati">
+			<img src=http://www.ssdev.co.uk/backend/uploads/images/models/xdiavel-2018/small/XDiavel_2016_Studio_Dett02_cinghia_puleggia_1920x1080_mediagallery_output_image__1920x1080_.jpg alt='XDiavel 2018' class='image-responsive img-fullwidth' />
+		</a>
+			</div>
+	<div>
+		<a href=/ducati/models/diavel/xdiavel>
+		XDiavel   2018		<br/>£16,995.00		</a>
+			</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "image": "http://www.ssdev.co.uk/backend/uploads/images/models/xdiavel-2018/XDiavel_2016_Studio_Dett02_cinghia_puleggia_1920x1080_mediagallery_output_image__1920x1080_.jpg",
+  "name": "XDiavel 2018",
+  "description": "XDiavel  ",
+  "offers": {
+    "@type": "Offer",
+    "availability": "http://schema.org/InStock",
+    "price": "16995.00",
+    "priceCurrency": "GBP"
+  }
+}
+</script></div>
+<div class="col-sm-6 col-md-4 col-lg-3 vtop" style="margin-bottom:30px" data-key="1077"><div>
+	<div class="image">
+		<a href=/ducati/models/diavel/xdiavel_s class="ducati">
+			<img src=http://www.ssdev.co.uk/backend/uploads/images/models/xdiavel-s-2018/small/XDiavel_s_2016_Studio_Dett08_posteriore_luci_on_1920x1080_mediagallery_output_image__1920x1080_.jpg alt='XDiavel S 2018' class='image-responsive img-fullwidth' />
+		</a>
+			</div>
+	<div>
+		<a href=/ducati/models/diavel/xdiavel_s>
+		XDiavel S   2018		<br/>£19,995.00		</a>
+			</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "image": "http://www.ssdev.co.uk/backend/uploads/images/models/xdiavel-s-2018/XDiavel_s_2016_Studio_Dett08_posteriore_luci_on_1920x1080_mediagallery_output_image__1920x1080_.jpg",
+  "name": "XDiavel S 2018",
+  "description": "XDiavel S  ",
+  "offers": {
+    "@type": "Offer",
+    "availability": "http://schema.org/InStock",
+    "price": "19995.00",
+    "priceCurrency": "GBP"
+  }
+}
+</script></div></div>";i:1;N;}i:1;N;}

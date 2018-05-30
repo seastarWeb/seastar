@@ -1,0 +1,54 @@
+a:2:{i:0;a:2:{i:0;s:2240:"<div id="w8" class="list-view"><div class="col-sm-6 col-md-4 col-lg-3 vtop" style="margin-bottom:30px" data-key="1090"><div>
+	<div class="image">
+		<a href=/ducati/models/supersport/supersport_939 class="ducati">
+			<img src=http://www.ssdev.co.uk/backend/uploads/images/models/supersport-939-2018/small/SS_1312_2017_Studio_R_Dett03_Gallery_1920x1080.mediagallery_output_image__1920x1080_.jpg alt='Supersport 939 2018' class='image-responsive img-fullwidth' />
+		</a>
+			</div>
+	<div>
+		<a href=/ducati/models/supersport/supersport_939>
+		Supersport 939  2018		<br/>£11,795.00		</a>
+			</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "image": "http://www.ssdev.co.uk/backend/uploads/images/models/supersport-939-2018/SS_1312_2017_Studio_R_Dett03_Gallery_1920x1080.mediagallery_output_image__1920x1080_.jpg",
+  "name": "Supersport 939 2018",
+  "description": "Supersport 939 ",
+  "offers": {
+    "@type": "Offer",
+    "availability": "http://schema.org/InStock",
+    "price": "11795.00",
+    "priceCurrency": "GBP"
+  }
+}
+</script></div>
+<div class="col-sm-6 col-md-4 col-lg-3 vtop" style="margin-bottom:30px" data-key="1091"><div>
+	<div class="image">
+		<a href=/ducati/models/supersport/supersport_s_939 class="ducati">
+			<img src=http://www.ssdev.co.uk/backend/uploads/images/models/supersport-s-939-2018/small/SS_1312S_2017_Studio_W_B01_Gallery_1920x1080_mediagallery_output_image__1920x1080_.jpg alt='Supersport S 939 2018' class='image-responsive img-fullwidth' />
+		</a>
+		<span class="demo demo-ducati">Demo Available</span>	</div>
+	<div>
+		<a href=/ducati/models/supersport/supersport_s_939>
+		Supersport S 939  2018		<br/>£12,995.00		</a>
+			</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "image": "http://www.ssdev.co.uk/backend/uploads/images/models/supersport-s-939-2018/SS_1312S_2017_Studio_W_B01_Gallery_1920x1080_mediagallery_output_image__1920x1080_.jpg",
+  "name": "Supersport S 939 2018",
+  "description": "Supersport S 939 ",
+  "offers": {
+    "@type": "Offer",
+    "availability": "http://schema.org/InStock",
+    "price": "12995.00",
+    "priceCurrency": "GBP"
+  }
+}
+</script></div></div>";i:1;N;}i:1;N;}
